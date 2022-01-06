@@ -7,3 +7,5 @@ Part01: Printing - Reading input - Variables - Calculating with numbers - Condit
 Part02: Recurring problems and patterns - Repeating functionality - More loops - Methods and dividing program into smaller parts.
 
 Part03: Lists - Array - Using strings [splits].
+
+Part04: Intro to OO programming - Objects in a list - Files and reading data.
