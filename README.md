@@ -9,3 +9,5 @@ Part02: Recurring problems and patterns - Repeating functionality - More loops -
 Part03: Lists - Array - Using strings [splits].
 
 Part04: Intro to OO programming - Objects in a list - Files and reading data.
+
+Part05: OOP - Overloading methods & constructors - primitive and reference veriables - Objects and references 
